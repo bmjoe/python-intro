@@ -1,4 +1,8 @@
-# Messages block
+"""Predict years left.
+
+Use this simple module to predict how
+many years you have left to live.
+"""
 
 hi_message = '''
 Hi dude!
