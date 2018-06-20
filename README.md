@@ -1,7 +1,6 @@
 # My First Project "Life length predictor"  
 
-Based on first chapter of ["Automate the boring stuff with python"](https://automatetheboringstuff.com/chapter1/) 
- 
+Based on first chapter of ["Automate the boring stuff with python"](https://automatetheboringstuff.com/chapter1/)
 'mfp.py' takes your name and age then gives you a prediction of how much time you have yet:)  
 =====
 ## Installation and use  
